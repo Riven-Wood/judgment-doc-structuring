@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+output/
+checkpoints/
+*.csv
+*.json
+*.yaml
+!research_config.yaml
